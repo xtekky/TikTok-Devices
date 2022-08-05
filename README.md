@@ -1,2 +1,3 @@
-# TikTok-Devices
-TikTok Device List, semi HQ on verison 19.1.3
+take last ones on list, never used
+
+https://raw.githubusercontent.com/xtekky/TikTok-Devices/main/devices.txt
